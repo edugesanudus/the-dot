@@ -176,6 +176,21 @@ ul{
     filter: saturate(140%);
 }
 
+/* TESTIMONIOS */
+#testimonios{
+	width: 90%;
+	margin-left: 5%;
+}
+
+#testimonios h3{
+	font-family: FjallaOne-Regular;
+	font-size: 42px;
+}
+
+#testimonios h6{
+	color: #ED1C24;
+}
+
 /* CONTACTO */
 #contacto h2{
 	font-family: FjallaOne-Regular;
@@ -188,10 +203,6 @@ ul{
 }
 
 /* PIE DE PÁGINA */
-footer{
-	width: 100%;
-	background-color: rgb(237, 28, 36, 1.0);
-}
 
 footer p{
 	text-align: center;
