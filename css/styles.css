@@ -176,6 +176,14 @@ ul{
     filter: saturate(140%);
 }
 
+#galeria video{
+	border-radius: 2%;
+}
+
+#galeria video:hover{
+	transform: scale(1.02);
+}
+
 /* TESTIMONIOS */
 #testimonios{
 	width: 90%;
@@ -188,7 +196,7 @@ ul{
 }
 
 #testimonios h6{
-	color: #ED1C24;
+	color: #000000;
 }
 
 /* CONTACTO */
@@ -252,6 +260,9 @@ footer p{
 	}
 
 	#nosotros h2{
+		font-size: 24px;
+	}
+	#servicios p{
 		font-size: 18px;
 	}
 }
